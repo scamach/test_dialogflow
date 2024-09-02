@@ -74,6 +74,17 @@
       }
     } ]
   },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Cambio intensional" ]
+      },
+      "languageCode": "en"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
   "transitionRoutes": [ {
     "condition": "$page.params.status = \"FINAL\"",
     "triggerFulfillment": {
