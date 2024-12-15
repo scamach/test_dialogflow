@@ -28,5 +28,25 @@
   },
   "speakerIdSettings": {
   
+  },
+  "textToSpeechSettings": {
+  
+  },
+  "duplexSettings": {
+  
+  },
+  "callCompanionSettings": {
+    "company": "Call Companion"
+  },
+  "webClientSettings": {
+    "displayName": "Call Companion",
+    "font": "Roboto Mono",
+    "textColor": "#000",
+    "backgroundColor": "#f3f6fc",
+    "userInputColor": "#9C27B0",
+    "agentResponseColor": "#fff",
+    "userInputTextColor": "#000",
+    "agentResponseTextColor": "#000",
+    "boxBorderRadius": "0"
   }
 }

@@ -74,6 +74,17 @@
       }
     } ]
   },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Diferente saludo" ]
+      },
+      "languageCode": "en"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
   "transitionRoutes": [ {
     "condition": "$page.params.status = \"FINAL\"",
     "triggerFulfillment": {
